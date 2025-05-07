@@ -1,6 +1,9 @@
 app = 'gemini-z'
 primary_region = 'sin'
 
+[env]
+  TZ = "Asia/Shanghai"
+
 [http_service]
   internal_port = 7860
   force_https          = true
