@@ -3,6 +3,7 @@ primary_region = 'sin'
 
 [env]
   TZ = "Asia/Shanghai"
+  ENABLE_STORAGE = "true"
 
 [http_service]
   internal_port = 7860
