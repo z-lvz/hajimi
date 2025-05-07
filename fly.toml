@@ -14,3 +14,6 @@ primary_region = 'sin'
     soft_limit = 99999
     hard_limit = 9999999999
 
+[[mounts]]
+  source      = "gemini_data"
+  destination = "/data"
