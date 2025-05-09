@@ -1,5 +1,5 @@
 app = 'gemini-z'
-primary_region = 'sin'
+primary_region = 'hkg'
 
 [env]
   TZ = "Asia/Shanghai"
